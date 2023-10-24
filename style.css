@@ -1,0 +1,62 @@
+/* Style the header */
+.background {
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    
+}
+header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  /* Style the main content area */
+  main {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: green;
+    color: white;
+  }
+  
+  /* Style the footer */
+  footer {
+    text-align: center;
+    padding: 20px;
+  }
+  
